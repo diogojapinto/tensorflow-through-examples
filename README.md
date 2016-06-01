@@ -1,7 +1,7 @@
 # tensorflow-through-examples
 Tensorflow iterative tutorial for Tensorflow
 
-First of all, I want to clarify that these examples are (at least currently), extensively based on the examples at [this](https://github.com/aymericdamien/TensorFlow-Examples) repository by [Aymeric Damien](https://github.com/aymericdamien) and [this](https://github.com/nlintz/TensorFlow-Tutorials) by [Nathan Lintz](https://github.com/nlintz).
+First of all, I want to clarify that these examples are (at least currently), extensively based on the examples at [this](https://github.com/aymericdamien/TensorFlow-Examples) repository by [Aymeric Damien](https://github.com/aymericdamien) and [this](https://github.com/nlintz/TensorFlow-Tutorials) by [Nathan Lintz](https://github.com/nlintz) (to whom I have to thank by helping me in my Tensorflow endeavours).
 
 These examples are intended for someone with already some knowledge about deep learning, but want to get technical and develop some more the knowledge in the field through a bottom-up perspective.
 

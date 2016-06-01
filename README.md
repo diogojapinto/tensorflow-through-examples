@@ -20,4 +20,4 @@ Install in your python environment the Tensorflow library (instructions in the [
 
 ## Support
 
-I'll try to make the examples more cohesive, as well as introduce a 5th topic, with more advanced models. For the time being, the exercises talked about in the (Deep Learning Udacity course)[https://www.udacity.com/course/deep-learning--ud730] are a very good follow up.
+I'll try to make the examples more cohesive, as well as introduce a 5th topic, with more advanced models. For the time being, the exercises talked about in the [Deep Learning Udacity course](https://www.udacity.com/course/deep-learning--ud730) are a very good follow up.
